@@ -1,4 +1,5 @@
 #include<iostream>
+class phk{}:
 using namespace std;
 int main(){
 int  a,b,c;
